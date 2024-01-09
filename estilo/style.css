@@ -80,7 +80,6 @@ nav{
 nav > a {
     text-decoration: none;
     color: var(--cor2);
-    padding: 10px;
 }
 
 nav > a:hover{
